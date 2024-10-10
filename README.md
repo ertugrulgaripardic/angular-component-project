@@ -1,4 +1,5 @@
 # SalesProject
+![image](https://github.com/user-attachments/assets/5dbac034-20d1-4293-a8a2-d70efc525a76)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
 
